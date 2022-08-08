@@ -3,7 +3,7 @@
 _I'm Mohammed Ghaleb_
 -
 - A Full-Stack Web Developer;
-- Graduated from Youthink Academy Powered by Woz U, California, Istanbull Bootcamp, July 2022;
+- Graduated from Youthink Academy Powered by Woz U, California, Istanbul Bootcamp, July 2022;
 
 _LinkedIn_
 -
