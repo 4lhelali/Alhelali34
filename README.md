@@ -10,6 +10,7 @@
 - Graduated from Youthink Academy Powered by Woz U, California, Istanbull Bootcamp, July 2022;
 
 
+<img align="right" width="380px" alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
       
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -27,7 +28,6 @@
 
 
 
-<img align="right" width="380px" alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
   &nbsp; 
     
